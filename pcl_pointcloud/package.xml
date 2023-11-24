@@ -4,7 +4,7 @@
   <name>pcl_pointcloud</name>
   <version>0.0.0</version>
   <description>TODO: Package description</description>
-  <maintainer email="foxy@todo.todo">foxy</maintainer>
+  <maintainer email="huhanze0328@qq.com">foxy</maintainer>
   <license>TODO: License declaration</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
